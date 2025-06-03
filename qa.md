@@ -1,8 +1,4 @@
-Perfeito. Aqui está a **Etapa 1: Diagnóstico Inicial** do projeto **PowerGuard**, com respostas claras, diretas e alinhadas ao seu escopo real de entrega:
-
----
-
-## ✅ **ENTREGA 1.1 – Visão de Arquitetura TOGAF – PowerGuard**
+✅ **ENTREGA 1.1 – Visão de Arquitetura TOGAF – PowerGuard**
 
 ### 🔹 **Stakeholders**
 

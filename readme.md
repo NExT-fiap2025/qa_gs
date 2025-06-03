@@ -1,7 +1,3 @@
-Perfeito! Abaixo está a **ENTREGA 2 – Documento de Apresentação (20 pts)**, estruturada exatamente conforme solicitado no edital, **pronta para colar no seu documento final**. Ela está dividida em duas partes: **descrição do projeto (10 pts)** e **público-alvo com impacto (10 pts)**.
-
----
-
 # 📝 **ENTREGA 2 – Documento de Apresentação do Projeto**
 
 ---
