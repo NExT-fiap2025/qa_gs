@@ -87,3 +87,43 @@ Sim — para **cumprir corretamente o modelo TOGAF com a ferramenta Archi (usand
 - [ ] Documento de justificativa da arquitetura adotada
 
 ---
+
+📦 PowerGuard_Archi (Projeto)
+├── 📂 0. Motivation View
+│ ├── 🎯 Objetivos e Requisitos
+│ ├── 🧩 Stakeholders e Restrições
+│ └── 📈 Visão de Valor
+│
+├── 📂 1. Business Layer
+│ ├── 👥 Atores e Papéis
+│ ├── 🔁 Processos de Negócio
+│ ├── 🧱 Funções e Serviços
+│ └── 📦 Produtos e Resultados
+│
+├── 📂 2. Application Layer
+│ ├── 🖥️ Componentes Aplicacionais
+│ ├── ⚙️ Funções e Serviços de Aplicação
+│ └── 📊 Objetos e Modelos de Dados
+│
+├── 📂 3. Technology Layer
+│ ├── 🧮 Infraestrutura e Nodes
+│ ├── ☁️ Serviços de Tecnologia (Cloud, Redes)
+│ └── 📂 Artefatos Técnicos (Ex: scripts, containers)
+│
+├── 📂 4. Implementation & Migration
+│ ├── 🧭 Roadmap de Transição
+│ ├── 📌 Entregas (Deliverables)
+│ ├── ⛳ Work Packages
+│ └── 📉 Gap Analysis
+│
+├── 📂 5. Governança e Mudança
+│ ├── 📋 Princípios Arquiteturais
+│ ├── 🔧 Regras de Governança
+│ ├── 🔁 Gestão de Mudança
+│ └── 🧪 Avaliações e Decisões
+│
+└── 📂 6. Visões e Viewpoints
+├── 👨‍💼 Visão Executiva (Motivation)
+├── 🧑‍💻 Visão Técnica (App + Tech)
+├── 🧑‍🔧 Visão de Implantação (Migration)
+└── 👁️ Visão Personalizada por Stakeholder
