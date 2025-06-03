@@ -357,6 +357,3 @@ Technology Node: Oracle DB Server
 ```
 
 ---
-
-✅ **Próximo passo:** gerar o **PDF do Archi** com os 4 blocos modelados (Entregas 1.1 a 1.4)
-Deseja agora avançar para a **ENTREGA 2 – Documento de Apresentação (10+10 pts)?** Posso estruturar o modelo base em texto já com seu projeto.
